@@ -1,4 +1,4 @@
-🐍 Basic Examples of Python
+# 🐍 Basic Examples of Python
 📌 About the Project
 
 This repository contains basic Python programs and coding examples designed to help beginners understand Python programming concepts.
